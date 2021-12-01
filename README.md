@@ -1,16 +1,20 @@
-### Hi there 👋
+## Opa, seja bem vindo ao meu GitHub, me chamo Guilherme Santos
 
-<!--
-**GuigaSantos/GuigaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> - 📘 **_Estudante_**
+> - 🌎 **_From Brazil_**
+> - 🌱 **_13 Anos_**
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <div align="center">**_Dados_**</div>
+  <a href="https://github.com/GuigaSantos">
+  
+  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuigaSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="center" /></div>
+  
+  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuigaSantos&layout=compact&langs_count=7&theme=radical" align="center" /></div>
+
+  <img align="right" alt="Mickey" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6772/0d627cb7af8fcf69e8a4d1cab4f77c1da72c8e77_00.gif?width=490&height=490">
+  
+</div>
+
+##
