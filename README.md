@@ -22,11 +22,6 @@
     <a href="mailto:guilhermemedeiros1803@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermemedeiros1803">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.whatsapp.com/send?phone=557193404437&text&app_absent=0">
-    <img src="https://img.shields.io/badge/-whatsapp-darklime?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=557193404437&text&app_absent=0">
-  </a>
-  
 
 ## Info
   
