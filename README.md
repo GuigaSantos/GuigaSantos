@@ -11,18 +11,6 @@
   <img align="right" alt="Mickey" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6772/0d627cb7af8fcf69e8a4d1cab4f77c1da72c8e77_00.gif?width=490&height=490">
 </div>
 
-
-## **_Meus contatos 📱_**
-
-<p align="center">
-    <a href="https://github.com/GuigaSantos">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/GuigaSantos">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:guilhermemedeiros1803@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilhermemedeiros1803">
-    </a>
-
 ## Info
   
 > - <img src="https://acegif.com/wp-content/gifs/book-49.gif" width="25px"/> **_[Estudante]()_**
